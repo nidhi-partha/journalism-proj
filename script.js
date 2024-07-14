@@ -26,7 +26,7 @@ async function fetchArticleContent(url) {
     }
 }
 
-const apiKey = 'sk-proj-IO54iz40OQPfd2fiQV1ZT3BlbkFJEghsAsJSKAzKLz2h1Nfs';
+const apiKey = '';
 let intervieweeRole = '';
 
 async function getIntervieweeDetailsAndQuestions(text) {
